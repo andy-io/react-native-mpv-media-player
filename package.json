@@ -1,6 +1,6 @@
 {
   "name": "react-native-mpv-media-player",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React native media player for video streaming and playing. Supports RTSP,RTMP and other protocols supported by MPV player",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,7 @@
     "media",
     "video"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/andy-io/react-native-mpv-media-player.git"
