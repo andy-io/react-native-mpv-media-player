@@ -1,6 +1,6 @@
 {
   "name": "react-native-mpv-media-player",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "React native media player for video streaming and playing. Supports RTSP,RTMP and other protocols supported by MPV player",
   "main": "index.js",
   "scripts": {
