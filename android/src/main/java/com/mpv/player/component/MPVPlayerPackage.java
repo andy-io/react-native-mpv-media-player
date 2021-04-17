@@ -15,6 +15,6 @@ public class MPVPlayerPackage implements ReactPackage {
     }
 
     public List<ViewManager> createViewManagers(ReactApplicationContext reactApplicationContext) {
-        return Collections.singletonList(new MPVPlayerViewManager());
+        return Collections.<ViewManager>singletonList(new MPVPlayerViewManager());
     }
 }
